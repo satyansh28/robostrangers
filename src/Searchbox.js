@@ -7,7 +7,7 @@ function Searchbox(props)
             <input
             onChange={props.anyinput}   
             type='search' 
-            placeholder='Find friends'
+            placeholder='Find people'
             className='pa3 bs b--green'/>
         </div>
     );
