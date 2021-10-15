@@ -1,0 +1,7 @@
+.scrolable
+{
+    overflow-y: scroll;
+    border: '2px solid';
+    
+    height: 70vh;
+}

@@ -3,7 +3,7 @@ import React,{ Component } from 'react';
 import './index.css';
 import Searchbox from './Searchbox';
 import Cardlist from './Cardlist';
-
+import Scroll from './Scroll.js';
 class App extends Component
 {
     constructor()
@@ -40,7 +40,7 @@ class App extends Component
         <h1 className='thehead'>ROBOSTRANGER</h1>
         <hr />
         <Searchbox className='pa3' anyinput={this.oninput}/>
-        <Cardlist robolist={newlist}/>
+        <Scroll><Cardlist robolist={newlist}/></Scroll>
         </div>
         );
         }
