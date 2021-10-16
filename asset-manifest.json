@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/robostrangers/static/css/main.bc5ac9e6.chunk.css",
+    "main.css": "/robostrangers/static/css/main.cd8b36b2.chunk.css",
     "main.js": "/robostrangers/static/js/main.dd02b79f.chunk.js",
     "main.js.map": "/robostrangers/static/js/main.dd02b79f.chunk.js.map",
     "runtime-main.js": "/robostrangers/static/js/runtime-main.ff6e4573.js",
@@ -12,7 +12,7 @@
     "static/js/3.ac2d2d0b.chunk.js.map": "/robostrangers/static/js/3.ac2d2d0b.chunk.js.map",
     "index.html": "/robostrangers/index.html",
     "static/css/2.07906b11.chunk.css.map": "/robostrangers/static/css/2.07906b11.chunk.css.map",
-    "static/css/main.bc5ac9e6.chunk.css.map": "/robostrangers/static/css/main.bc5ac9e6.chunk.css.map",
+    "static/css/main.cd8b36b2.chunk.css.map": "/robostrangers/static/css/main.cd8b36b2.chunk.css.map",
     "static/js/2.7308b075.chunk.js.LICENSE.txt": "/robostrangers/static/js/2.7308b075.chunk.js.LICENSE.txt",
     "static/media/index.css": "/robostrangers/static/media/b1.dfbd7714.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ff6e4573.js",
     "static/css/2.07906b11.chunk.css",
     "static/js/2.7308b075.chunk.js",
-    "static/css/main.bc5ac9e6.chunk.css",
+    "static/css/main.cd8b36b2.chunk.css",
     "static/js/main.dd02b79f.chunk.js"
   ]
 }
